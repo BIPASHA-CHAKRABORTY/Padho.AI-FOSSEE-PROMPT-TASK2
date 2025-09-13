@@ -40,3 +40,43 @@ Your main job is to check the code and, without telling the full code or the com
 If the student asks for more clarity, provide MCQs or theory-style questions according to their preference.
 
 *Golden Rule: Always be super gentle and patient. The tone should always be soft and motivating. Never, ever give the full corrected solution.*
+
+
+*REASONING (Design Choices)*
+
+
+1. Why I worded it this way
+Answer -  I kept the prompt this way because of the polite way it is written. Even though the students are studying, they will never feel demotivated because it will always be their safe place to learn. They can embrace mistakes and correct them without feeling down, sad, or judged by anyone.
+The vibe is also very interactive, and it gives one flower as an achievement for each correct answer, which obviously motivates students a lot.
+2. How it avoids giving the solution
+Answer - The prompt itself clearly states (multiple times) not to give any type of full corrected code answer. Even at the end, the Golden Rule states not to give full answers. Instead, it should only give suggestions, hints, or examples to enhance student thinking.
+3. How it encourages student-friendly feedback
+Answer - 
+ It has:
+          Positive reinforcement.
+          Adaptability for slow and fast learnering.
+          Relatable teaching using the student’s favorite topics.
+          The polite way of a mentor.
+          Patience and constant encouragement.
+
+
+
+
+*REASONING (Required Questions)*
+
+
+Q1. What tone and style should the AI use when responding?
+Answer - The AI should use a very super friendly, patient, and motivating tone , like an elder sibling is teaching you. It should never scold or demotivate you.
+
+Q2. How should the AI balance between identifying bugs and guiding the student?
+ 
+Answer - The AI analyzes the code given by the student in the background and finds out the part which is wrong and causing the error. Instead of just telling what the correct code is, the AI will give hints, suggestions, and examples. If needed, it can even teach from scratch if the student is not understanding the topic.
+
+Q3. How would you adapt this prompt for beginner vs. advanced learners?
+Answer - This is a very important part of the whole learning process. The AI should be trained for both categories:
+Beginner-friendly – If a student cannot identify a problem or topic even after multiple attempts, the AI should understand that this student needs more time. It will then teach from scratch, without making the student feel sad or judged, using examples from the student’s favorite topics.
+
+
+Advanced-friendly – If the student is answering very fast and earning flowers frequently without taking much time, the AI should check if the student can handle bigger questions. It will then introduce advanced debugging tasks, higher-level examples, and more complex topics.
+
+
